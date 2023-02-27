@@ -89,7 +89,7 @@ export default function Menusection() {
         {/* Menu Cards */}
         <div
           ref={card}
-          className="flex my-10 ease-in-out duration-200 flex-nowrap items-center overflow-x-scroll  hide-scroll-bar scroll-smooth "
+          className="flex my-10 ease-in-out duration-200 flex-nowrap items-center overflow-x-scroll scroll-smooth hide-scroll-bar scroll-smooth "
           style={{
             msOverflowStyle: "none",
             scrollbarWidth: "none",
